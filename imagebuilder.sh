@@ -40,8 +40,8 @@
 make_path="${PWD}"
 openwrt_dir="openwrt"
 imagebuilder_path="${make_path}/${openwrt_dir}"
-custom_files_path="${make_path}/config-openwrt/imagebuilder/files"
-custom_config_file="${make_path}/config-openwrt/imagebuilder/config"
+# custom_files_path="${make_path}/config-openwrt/imagebuilder/files"
+custom_config_file="${make_path}/godemwrt/config"
 
 # Set default parameters
 STEPS="[\033[95m STEPS \033[0m]"
