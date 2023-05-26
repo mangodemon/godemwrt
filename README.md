@@ -1,0 +1,2 @@
+# godemwrt
+Myself compile openwrt
